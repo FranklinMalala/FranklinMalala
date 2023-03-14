@@ -35,8 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<\br>
 
-![snake gif](https://github.com/FranklinMalala/FranklinMalala/blob/output/github-contribution-grid-snake.svg)
-<\br>
+
+!![snake gif](https://github.com/FranklinMalala/FranklinMalala/blob/output/github-contribution-grid-snake.svg)
 
